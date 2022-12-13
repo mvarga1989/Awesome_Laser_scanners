@@ -11,7 +11,7 @@
 - Stonex: X100, X300
 - Surphaser: 100HSX, 75USR
 - Teledyne Optech: Polaris, TLS-M3
-- Topcon: GLS-2000
+- Topcon: GLS-2000, GTL-1000
 - Trimble: TX8, TX6, X7, SX-10
 - Zoller+Fröhlich Imager: 5010C, 5010X, 5016
 
