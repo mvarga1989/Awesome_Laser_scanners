@@ -1,15 +1,15 @@
-# Community (public, open) list of laser scanners
+# Community (public, open) list of terrestrial, airborne and handheld laser scanners and software
 
 ## Terrestrial laser scanners
 
 - Arctec: Ray
 - Faro: Focus 3D X130, S 70
-- Leica: BLK360 G1, HDS6100, New BLK360 G1,  Nova MS60, RTC360, ScanStation P20, P40, P50
+- Leica: BLK360 G1, HDS6100, New BLK360 G1,  Nova MS60, RTC360, ScanStation P20, P40, P50
 - Maptek: SR3
-- Teledyne Optech: Polaris, TLS-M3
 - Riegl: VZ-400i
 - Stonex: X-300
 - Surphaser: 100HSX
+- Teledyne Optech: Polaris, TLS-M3
 - Topcon: GLS-2000
 - Trimble: X7, SX-10
 - Zoller+Fröhlich Imager: 5016
@@ -25,32 +25,31 @@
 - Leica: BLK2FLY
 
 ## TLS software
-- Leica Cyclone
-- FARO SCENE
 - Artec Studio
-- ESRI ArcGIS
-- Innovmetric Polyworks
-- Riegl RiSCAN PRO
 - Autodesk ReCap Pro
+- ESRI ArcGIS
+- FARO SCENE
+- Innovmetric Polyworks
+- Leica Cyclone
+- Riegl RiSCAN PRO
+
 
 ## Properties of scanners
 
-- Model
+- Accuracy
 - Brand
 - Country
+- Dimensions
+- HDR imaging
+- Max scan distance
+- Maximum accuracy
+- Maximum resolution
+- Model
 - Price
 - Release date
-- Technology
-
-- Weight
-- Dimensions
-
-- Maximum resolution
-- Maximum accuracy
 - Speed off capture
-- HDR imaging
-- Accuracy
-- Visual Internal System
-- USB port
+- Technology
 - Thermal sensor
-- Max scan distance
+- USB port
+- Visual Internal System
+- Weight
