@@ -3,16 +3,17 @@
 ## Terrestrial laser scanners
 
 - Arctec: Ray
-- Faro: Focus 3D X130, S 70
+- Faro: Focus 3D X130, Focus 3D X330, Focus M 70, Focus S 350
 - Leica: BLK360 G1, HDS6100, New BLK360 G1,  Nova MS60, RTC360, ScanStation P20, P40, P50
 - Maptek: SR3
-- Riegl: VZ-400i
-- Stonex: X-300
-- Surphaser: 100HSX
+- Pentax: X-3180
+- Riegl: VZ-200, VZ-400i, VZ-600i, VZ-4000, VZ-6000
+- Stonex: X300
+- Surphaser: 100HSX, 75USR
 - Teledyne Optech: Polaris, TLS-M3
 - Topcon: GLS-2000
-- Trimble: X7, SX-10
-- Zoller+Fröhlich Imager: 5016
+- Trimble: TX8, TX6, X7, SX-10
+- Zoller+Fröhlich Imager: 5010C, 5010X, 5016
 
 ## Handheld laser scanners
 
