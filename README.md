@@ -21,7 +21,7 @@
 - Stonex: F6 SR
 - SLAM X120GO
 
-## Airborne laser scanners
+## Drone laser scanners
 
 - Leica: BLK2FLY
 
