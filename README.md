@@ -16,13 +16,11 @@
 - Zoller+Fröhlich Imager: 5010C, 5010X, 5016
 
 ## Handheld laser scanners
-
 - Leica: BLK2GO
 - Stonex: F6 SR
 - SLAM X120GO
 
 ## Drone laser scanners
-
 - Leica: BLK2FLY
 
 ## TLS software
@@ -55,15 +53,12 @@
 - XenomatiX
 - Zoller + Fröhlich
 
-
 ## Properties of scanners
-
 - Accuracy of measured distance
 - Brand
 - Country
 - Dimensions and weight
 - Year of production
-
 - Angular resolution (horizontal and vertical)
 - Distance measuring principle (phase, pulse)
 - External camera (CCD)
