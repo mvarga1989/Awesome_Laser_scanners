@@ -8,7 +8,7 @@
 - Maptek: SR3
 - Pentax: X-3180
 - Riegl: VZ-200, VZ-400i, VZ-600i, VZ-4000, VZ-6000
-- Stonex: X300
+- Stonex: X100, X300
 - Surphaser: 100HSX, 75USR
 - Teledyne Optech: Polaris, TLS-M3
 - Topcon: GLS-2000
@@ -33,6 +33,27 @@
 - Innovmetric Polyworks
 - Leica Cyclone
 - Riegl RiSCAN PRO
+
+## Manufacturers
+- Acuity Technologies
+- Artec 3D Scanners
+- Carlson Software
+- Clauss
+- FARO Europe
+- GreenValley International
+- Maptek
+- Matterport
+- Neptec Technologies Corp.
+- RIEGL
+- Smart Max Geosystems
+- Stonex
+- Surphaser / Basis Software Inc.
+- Teledyne Geospatial
+- TI Asahi
+- Topcon
+- Trimble, Inc.
+- XenomatiX
+- Zoller + Fröhlich
 
 
 ## Properties of scanners
