@@ -2,33 +2,55 @@
 
 ## Terrestrial laser scanners
 
-- [**Faro Focus 3D X130**]
-- [**Leica ScanStation P40**]
-- [**Leica RTC360**]
-- [**Leica Nova MS60**]
-- [**Leica BLK360 G1**]
-- [**Leica New BLK360 G1**]
-- [**Leica HDS6100**]
-- [**Leica ScanStation P20**]
-- [**Leica ScanStation P50**]
-- [**Stonex X-300**]
-- [**Zoller+Fröhlich Imager 5016**]
-
+- Arctec: Ray
+- Faro: Focus 3D X130, S 70
+- Leica: BLK360 G1, HDS6100, New BLK360 G1,  Nova MS60, RTC360, ScanStation P20, P40, P50
+- Maptek: SR3
+- Teledyne Optech: Polaris, TLS-M3
+- Riegl: VZ-400i
+- Stonex: X-300
+- Surphaser: 100HSX
+- Topcon: GLS-2000
+- Trimble: X7, SX-10
+- Zoller+Fröhlich Imager: 5016
 
 ## Handheld laser scanners
 
-- [**Stonex F6 SR**]
-- [**SLAM X120GO**]
+- Leica: BLK2GO
+- Stonex: F6 SR
+- SLAM X120GO
 
+## Airborne laser scanners
 
-## Properties of scanner
+- Leica: BLK2FLY
 
-- [**Weight**]
-- [**Size**]
-- [**Speed off capture**]
-- [**HDR imaging**]
-- [**Accuracy**]
-- [**Visual Internal System**]
-- [**USB port**]
-- [**Thermal sensor**]
-- [**Max scan distance**]
+## TLS software
+- Leica Cyclone
+- FARO SCENE
+- Artec Studio
+- ESRI ArcGIS
+- Innovmetric Polyworks
+- Riegl RiSCAN PRO
+- Autodesk ReCap Pro
+
+## Properties of scanners
+
+- Model
+- Brand
+- Country
+- Price
+- Release date
+- Technology
+
+- Weight
+- Dimensions
+
+- Maximum resolution
+- Maximum accuracy
+- Speed off capture
+- HDR imaging
+- Accuracy
+- Visual Internal System
+- USB port
+- Thermal sensor
+- Max scan distance
