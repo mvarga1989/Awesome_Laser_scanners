@@ -37,14 +37,17 @@
 
 ## Properties of scanners
 
-- Accuracy
+- Accuracy of measured distance
 - Brand
 - Country
-- Dimensions
-- Distance measurement method
-- External camera
+- Dimensions and weight
+- Year of production
+
+- Angular resolution (horizontal and vertical)
+- Distance measuring principle (phase, pulse)
+- External camera (CCD)
 - HDR imaging
-- intensity registration
+- Intensity registration
 - Laser beam width, laser beam divergence (maximum vertical and horizontal viewing angle, etc.)
 - Laser footprint at 50-m distance
 - Maximum accuracy
@@ -56,11 +59,9 @@
 - Price
 - Scanning time with one battery
 - Speed off capture
-- Technology
 - Thermal sensor
 - Uncertainty of distance measurement (constant and variable part)
 - USB port
 - Visual Internal System
 - Wavelength
-- Weight
-- Year of production
+
