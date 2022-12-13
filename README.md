@@ -41,16 +41,26 @@
 - Brand
 - Country
 - Dimensions
+- Distance measurement method
+- External camera
 - HDR imaging
-- Max scan distance
+- intensity registration
+- Laser beam width, laser beam divergence (maximum vertical and horizontal viewing angle, etc.)
+- Laser footprint at 50-m distance
 - Maximum accuracy
 - Maximum resolution
+- Maximum vertical and horizontal viewing area
+- Minimum and Maximum distance measurement range
 - Model
+- Operating characteristics (temperature, humidity, camera, biaxial compensator)
 - Price
-- Release date
+- Scanning time with one battery
 - Speed off capture
 - Technology
 - Thermal sensor
+- Uncertainty of distance measurement (constant and variable part)
 - USB port
 - Visual Internal System
+- Wavelength
 - Weight
+- Year of production
