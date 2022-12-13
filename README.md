@@ -86,3 +86,17 @@
 - Visual Internal System
 - Wavelength
 
+## Applications of laser scanners
+- Crash Investigations
+- Crime Scene Investigation
+- Critical Infrastructure Protection
+- Disaster Recovery
+- Fire and Arson Investigation
+- Geotechnical Engineering
+- Landslide movement
+- Medicolegal Death Investigations
+- Outcrop
+- Path Reconstruction
+- Post-Blast Investigation
+- Security and Pre-Event Planning
+- Surveying
