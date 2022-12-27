@@ -8,6 +8,7 @@
 - Maptek: SR3
 - Pentax: X-3180
 - Riegl: VZ-200, VZ-400i, VZ-600i, VZ-4000, VZ-6000
+- SOUTH: SPL1500
 - Stonex: X100, X300
 - Surphaser: 100HSX, 75USR
 - Teledyne Optech: Polaris, TLS-M3
