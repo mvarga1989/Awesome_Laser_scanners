@@ -1,5 +1,9 @@
 # Community (public, open) list of terrestrial, airborne and handheld laser scanners and software
 
+#### You wish to assist in making the list more useful, complete and accurate? Contributors are more than welcome. Please send me an [:e-mail:](mailto:mvarga1989@gmail.com).
+#### If my content has added any value to your work, please consider giving it a :star: and/or share on your professional social networks. Thank you!
+#### Other useful lists that I am maintaining [lists link](https://github.com/mvarga1989#community-lists-that-i-am-maintaining)
+
 ## Terrestrial laser scanners
 
 - Arctec: Ray
